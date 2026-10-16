@@ -2,6 +2,8 @@
 
 An MCP (Model Context Protocol) server that lets Claude Desktop look up Claude certification details by ID.
 
+**New to MCP?** Try the [hands-on lab](LAB.md) to build this server from scratch in about 45 minutes.
+
 ## What it does
 
 This server exposes a single tool — `get_certification` — that Claude can call during a conversation. When you ask Claude about a certification (e.g. "What does CCAR-P cover?"), Claude calls this tool, which reads `certifications.json` and returns the matching record.
