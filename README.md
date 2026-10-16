@@ -35,7 +35,7 @@ The server reads `certifications.json` on every call, so you can update that fil
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/cert-mcp-server.git
+   git clone https://github.com/elizabeth-shin/cert-mcp-server.git
    cd cert-mcp-server
    ```
 
