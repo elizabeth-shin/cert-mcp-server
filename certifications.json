@@ -1,0 +1,31 @@
+[
+  {
+    "id": "CCAO-F",
+    "name": "Claude Certified Associate Foundations",
+    "level": "Foundations",
+    "cost": "$99",
+    "domains": []
+  },
+  {
+    "id": "CCDV-F",
+    "name": "Claude Certified Developer Foundations",
+    "level": "Foundations",
+    "cost": "$125",
+    "domains": []
+  },
+  {
+    "id": "CCAR-F",
+    "name": "Claude Certified Architect Foundations",
+    "level": "Foundations",
+    "cost": "$125",
+    "domains": []
+  },
+  {
+    "id": "CCAR-P",
+    "name": "Claude Certified Architect Professional",
+    "level": "Professional",
+    "cost": "$175",
+    "questions": 63,
+    "domains": []
+  }
+]
